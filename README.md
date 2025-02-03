@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Angel!
+👋 Hi, I’m Angel!
 I am an aspiring cybersecurity professional with a bachelor's degree in Cybersecurity and a CompTIA Security+ certification. Here’s a quick glance at my portfolio:
 
 🔍 About Me:
