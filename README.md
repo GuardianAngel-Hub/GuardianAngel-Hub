@@ -1,5 +1,52 @@
 <h1>Hi, I'm Angel! <br/><a href="https://www.linkedin.com/in/angel-jaramillo-339797155">Aspiring Cybersecurity Professional </a> </h1>
 
+
+## 🌟 About Me
+I am an aspiring cybersecurity professional with a bachelor’s degree in Cybersecurity and a CompTIA Security+ certification. Currently, I am working towards my Certified Ethical Hacker (CEH) certification to further enhance my skills in offensive security and threat analysis.
+
+## 🎯 Objective
+
+I am passionate about cybersecurity and continuously expanding my knowledge in threat detection, security operations, and risk mitigation. My goal is to transition into the industry as a Security Analyst, where I can apply my expertise in security monitoring, incident response, and ethical hacking techniques.
+
+I invite you to explore my journey, projects, and contributions as I build my career in cyber defense.
+
+## Skills
+[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+
+## Tools
+[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+
+### Network
+<div>
+    <img src="https://img.shields.io/badge/-Nmap-004372?&style=for-the-badge&logo=Nmap&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+</div>
+
+
+### Endpoint
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+</div>
+
+### SIEM
+<div>
+    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+</div>
+
+## Certifications
+[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+
+<div>
+<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+</div>
+
+
+
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b> SIEM Lab</b>
