@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b> SIEM Lab</b>
-  - [Building a Powerfum SIEM](https://github.com/)
+  - [Building a Powerful SIEM](https://github.com/)
   -  <b><i>.....</b></i>
 - <b>Splunk</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/)
