@@ -14,7 +14,7 @@ I invite you to explore my journey, projects, and contributions as I build my ca
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| SIEM Implementation and Threat Detection        | <a href="https://github.com/GuardianAngel-Hub/SIEM-Lab?tab=readme-ov-file#-siem-lab">Elastic SIEM Lab Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 
 ## Tools
@@ -47,7 +47,7 @@ I invite you to explore my journey, projects, and contributions as I build my ca
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b> SIEM Lab</b>
-  - [Building a Elastic SIEM](https://github.com/)
+  - [Building a Elastic SIEM](https://github.com/GuardianAngel-Hub/SIEM-Lab?tab=readme-ov-file#-siem-lab)
   -  <b><i>.....</b></i>
 - <b>Splunk</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/)
