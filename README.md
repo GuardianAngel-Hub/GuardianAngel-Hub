@@ -11,7 +11,6 @@ I am passionate about cybersecurity and continuously expanding my knowledge in t
 I invite you to explore my journey, projects, and contributions as I build my career in cyber defense.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -19,7 +18,6 @@ I invite you to explore my journey, projects, and contributions as I build my ca
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
@@ -39,7 +37,6 @@ I invite you to explore my journey, projects, and contributions as I build my ca
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
@@ -66,12 +63,14 @@ I invite you to explore my journey, projects, and contributions as I build my ca
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="center" alt="AngelJaramillo | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="center" alt="AngelJaramillo | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="center" alt="AngelJaramillo | YouTube" width="22px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/youtube-app-white-icon.png" />][youtube]
+
+[<img align="center" alt="AngelJaramillo | LinkedIn" width="22px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linkedin-app-white-icon.png" />][linkedin]
 
 
 [youtube]: https://www.youtube.com/
 [linkedin]: https://www.linkedin.com/in/angel-jaramillo-339797155
+
 
 <!--GuardianAngel-Hub/GuardianAngel-Hub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
