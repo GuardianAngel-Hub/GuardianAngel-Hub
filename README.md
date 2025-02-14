@@ -15,7 +15,7 @@ I invite you to explore my journey, projects, and contributions as I build my ca
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Threat Detection        | <a href="https://github.com/GuardianAngel-Hub/SIEM-Lab?tab=readme-ov-file#-siem-lab">Elastic SIEM Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Network Traffic Monitoring and Vulnerability Detection | <a href="">Wireshark Lab</a>|
 
 ## Tools
 
