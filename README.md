@@ -49,16 +49,12 @@ I invite you to explore my journey, projects, and contributions as I build my ca
 - <b> SIEM Lab</b>
   - [Building a Elastic SIEM](https://github.com/GuardianAngel-Hub/SIEM-Lab?tab=readme-ov-file#-siem-lab)
   -  <b><i>.....</b></i>
-- <b>Splunk</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/)
-- <b>SQL</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/)
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/)
 
 <h2>📺 Popular YouTube Videos</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/)
+- [Beginner’s Guide to Cybersecurity: Steps to Kickstart Your Journey!](https://www.youtube.com/) Comming soon.. 
 
 
 <h2> 🤳 Connect with me:</h2>
