@@ -47,7 +47,7 @@ I invite you to explore my journey, projects, and contributions as I build my ca
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b> SIEM Lab</b>
-  - [Building a Elastic SIEM](https://github.com/GuardianAngel-Hub/SIEM-Lab?tab=readme-ov-file#-siem-lab)
+  - [Building an Elastic SIEM](https://github.com/GuardianAngel-Hub/SIEM-Lab?tab=readme-ov-file#-siem-lab)
   -  <b><i>.</b></i>
 
 <h2>📺 Popular YouTube Videos</h2>
