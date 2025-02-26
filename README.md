@@ -1,4 +1,4 @@
-<h1>Hi, I'm Angel! <br/><a href="https://www.linkedin.com/in/angel-jaramillo-339797155">Aspiring Cybersecurity Professional </a> </h1>
+<h1>Hi, I'm Angel! <br/><a href="https://www.linkedin.com/in/angel-jaramillo-339797155">Cybersecurity Professional </a> </h1>
 
 
 ## 🌟 About Me
