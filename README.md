@@ -2,7 +2,7 @@
 
 
 ## 🌟 About Me
-I am an aspiring cybersecurity professional with a bachelor’s degree in Cybersecurity and a CompTIA Security+ certification. Currently, I am working towards my Certified Ethical Hacker (CEH) certification to further enhance my skills in offensive security and threat analysis.
+I am a cybersecurity professional with a bachelor’s degree in Cybersecurity and a CompTIA Security+ certification. Currently, I am working towards my Certified Ethical Hacker (CEH) certification to further enhance my skills in offensive security and threat analysis.
 
 ## 🎯 Objective
 
