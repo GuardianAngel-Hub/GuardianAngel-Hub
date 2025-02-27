@@ -57,9 +57,9 @@ I invite you to explore my journey, projects, and contributions as I build my ca
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="center" alt="AngelJaramillo | YouTube" width="22px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/youtube-app-white-icon.png" />][youtube]
+[<img align="center" alt="AngelJaramillo | YouTube" width="22px" src="https://cdn3.iconfinder.com/data/icons/social-network-30/512/social-06-1024.png" />][youtube]
 
-[<img align="center" alt="AngelJaramillo | LinkedIn" width="22px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linkedin-app-white-icon.png" />][linkedin]
+[<img align="center" alt="AngelJaramillo | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />][linkedin]
 
 
 [youtube]: https://www.youtube.com/
